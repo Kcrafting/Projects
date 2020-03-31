@@ -1,11 +1,13 @@
 [
   {
-    "uuid": "12312313",
+    "imei": "",
+    "uuid": "{5D5CD642-1EF5-41D6-8434-0C9508D5F522}",
     "periodofservice": "2020-3-10",
     "periodofuse": "2022-4-6"
   },
   {
-    "uuid": "12312313",
+    "imei": "",
+    "uuid": "{08B6BD61-9BFD-4432-8DA5-DABA4F8D3A45}",
     "periodofservice": "2020-3-10",
     "periodofuse": "2022-4-6"
   }
